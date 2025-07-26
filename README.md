@@ -1,16 +1,16 @@
-## Hi there 👋
+## Diego Lopes
+ <div>
+   <a href="https://github.com/DiiHL">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiiHL&show_icons=true&theme=radical&include_all_commits=true&count_private=false"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiiHL&layout=compact&langs_count=6&theme=radical"/>
+</div>
+     
+<br>
 
-<!--
-**DiiHL/DiiHL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA logo" />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
